@@ -12,8 +12,4 @@ Run the following command to install the necessary dependencies:
 # Running the Project
 1.Start the development server:
 ### `npm start`
-2.Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-
 
